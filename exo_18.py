@@ -1,0 +1,10 @@
+tuple1=(1,4,6,8,3)
+tuple2=(2,None,"AURE")
+print(tuple1)
+list(tuple1)
+tuple1=tuple1[::-1]
+print(tuple1)
+print(tuple2)
+list(tuple2)
+tuple2=tuple2[::-1]
+print(tuple2)
